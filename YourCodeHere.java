@@ -2,9 +2,10 @@ public class YourCodeHere {
 
     public static void main(String[] args) {
 
-        System.out.println("Welcome to Java Practice!");
+        int a = 20;
+        int b = 30;
 
-        // Write your code here
+        System.out.println(a + b);
 
     }
 }
