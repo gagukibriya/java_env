@@ -5,33 +5,34 @@ This repository is created for practicing Java code; if you clone this repositor
 
 - Windows 10/11
 - Git
-- Visual Studio Code
+- VS Code
 - Internet connection
+- Winget
 
 ## Installation
 
-Clone the repository:
+Clone repository:
 
     git clone https://github.com/gagukibriya/java_env.git
 
-Open the project folder:
+Open folder:
 
     cd java_env
 
 Run setup:
 
-    powershell.exe -ExecutionPolicy Bypass -File .\setup.ps1
+    .\setup.ps1
 
-## Start Coding
+Restart VS Code terminal.
 
-Open VS Code:
+## Start Practicing
 
-    code .
-
-Write your code inside:
+Write Java code inside:
 
     YourCodeHere.java
 
-Run your code:
+Run:
 
-    powershell.exe -ExecutionPolicy Bypass -File .\run.ps1
+    run
+
+That's it!
